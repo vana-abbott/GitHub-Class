@@ -1,4 +1,12 @@
 #header {
     background-color: lavenderblush;
         color: midnightblue;
+    text-align: center;
+}
+
+#Footer {
+    background-color: lavenderblush;
+        color: black; 
+    text-align: right
+    
 }
