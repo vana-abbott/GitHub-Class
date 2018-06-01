@@ -1,7 +1,11 @@
-#header {
+h1 {
     background-color: lavenderblush;
         color: midnightblue;
     text-align: center;
+    float: left; 
+}
+h1 {
+    color: aqua;
 }
 
 #Footer {
